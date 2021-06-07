@@ -1,0 +1,25 @@
+calc=cdens
+basis="./MOL"
+xdens="./XDENS"
+openshell=false 
+magnet=[0,0,1]
+
+Grid(base) { 
+    type=even
+    origin=[-8.0, -7.0, -6.0]
+    ivec=[1.0, 0.0, 0.0]
+    jvec=[0.0, 1.0, 0.0]
+    lengths=[16.0, 14.0, 12.0]
+    grid_points=[50, 50, 50]
+}
+
+Advanced {
+    spherical=off
+    diamag=on
+    paramag=on
+}
+
+Essential {
+    acid=on
+    jmod=on
+}
