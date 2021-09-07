@@ -1,0 +1,7 @@
+!B3LYP EPR-II Autoaux rijcosx pal8
+* xyzfile 0 2 tempo_opt.xyz
+%eprnmr
+	gtensor 1
+	Nuclei = all N {aiso, adip, aorb, fgrad, rho}
+	Nuclei = all C {aiso, adip, aorb, fgrad, rho}
+end
