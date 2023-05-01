@@ -1,7 +1,7 @@
 %nprocshared=8
 %mem=10GB
 %chk=methylazulene_AICD.chk
-#p nmr=cstg rb3lyp/6-31g(d) iop(10/93=1)
+#p nmr=csgt rb3lyp/6-31g(d) iop(10/93=1)
 
 Title Card Required
 
