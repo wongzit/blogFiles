@@ -1,0 +1,17 @@
+
+Running calc_J VERSION 1.9
+log file for first monomer is:      naph_mol1.log
+log file for second monomer is:     naph_mol2.log
+log file for dimer is:              naph_p.log
+pun file for the first monomer is:  naph_mol1.pun
+pun file for the second monomer is: naph_mol2.pun
+pun file for the dimer is:          naph_p.pun
+
+Dimer     Spin Alpha
+Monomer 1 Spin Alpha Orbital HOMO
+Monomer 2 Spin Alpha Orbital HOMO
+J_ab  0.0212217 eV
+e_a   -5.28504 eV
+e_b   -5.54445 eV
+S_ab  -0.00251815
+J_eff 0.00758662 eV
